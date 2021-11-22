@@ -1,0 +1,14 @@
+C:\Users\Francisco Corte\Desktop\EstudandoCSharp\AprendendoCSharp\7-Condicionail\bin\Debug\7-Condicionail.exe.config
+C:\Users\Francisco Corte\Desktop\EstudandoCSharp\AprendendoCSharp\7-Condicionail\bin\Debug\7-Condicionail.exe
+C:\Users\Francisco Corte\Desktop\EstudandoCSharp\AprendendoCSharp\7-Condicionail\bin\Debug\7-Condicionail.pdb
+C:\Users\Francisco Corte\Desktop\EstudandoCSharp\AprendendoCSharp\7-Condicionail\obj\Debug\7-Condicionail.csproj.CoreCompileInputs.cache
+C:\Users\Francisco Corte\Desktop\EstudandoCSharp\AprendendoCSharp\7-Condicionail\obj\Debug\7-Condicionail.exe
+C:\Users\Francisco Corte\Desktop\EstudandoCSharp\AprendendoCSharp\7-Condicionail\obj\Debug\7-Condicionail.pdb
+C:\Users\Francisco Corte\Desktop\EstudandoCSharp\AprendendoCSharp\7-Condicionail\obj\Debug\7-Condicionail.csprojAssemblyReference.cache
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\7-Condicionail\bin\Debug\7-Condicionail.exe.config
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\7-Condicionail\bin\Debug\7-Condicionail.exe
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\7-Condicionail\bin\Debug\7-Condicionail.pdb
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\7-Condicionail\obj\Debug\7-Condicionail.csproj.AssemblyReference.cache
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\7-Condicionail\obj\Debug\7-Condicionail.csproj.CoreCompileInputs.cache
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\7-Condicionail\obj\Debug\7-Condicionail.exe
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\7-Condicionail\obj\Debug\7-Condicionail.pdb

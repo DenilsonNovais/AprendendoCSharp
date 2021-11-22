@@ -1,0 +1,7 @@
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.exe.config
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.exe
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\P13-ForEncadeado\bin\Debug\P13-ForEncadeado.pdb
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.csproj.AssemblyReference.cache
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.csproj.CoreCompileInputs.cache
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.exe
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\P13-ForEncadeado\obj\Debug\P13-ForEncadeado.pdb

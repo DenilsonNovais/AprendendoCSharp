@@ -1,0 +1,6 @@
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\P14-LacoDeRepeticaoWhile\bin\Debug\P14-LacoDeRepeticaoWhile.exe.config
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\P14-LacoDeRepeticaoWhile\bin\Debug\P14-LacoDeRepeticaoWhile.exe
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\P14-LacoDeRepeticaoWhile\bin\Debug\P14-LacoDeRepeticaoWhile.pdb
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\P14-LacoDeRepeticaoWhile\obj\Debug\P14-LacoDeRepeticaoWhile.csproj.CoreCompileInputs.cache
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\P14-LacoDeRepeticaoWhile\obj\Debug\P14-LacoDeRepeticaoWhile.exe
+F:\Desktop\ALURA\EstudandoCSharp\AprendendoCSharp\P14-LacoDeRepeticaoWhile\obj\Debug\P14-LacoDeRepeticaoWhile.pdb
