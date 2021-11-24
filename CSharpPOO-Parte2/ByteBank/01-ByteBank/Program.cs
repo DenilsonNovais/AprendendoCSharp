@@ -10,8 +10,10 @@ namespace _01_ByteBank
     {
         static void Main(string[] args)
         {
+            //O projeto class transformado em um objeto -Instancia da Class ContaCorrente
             ContaCorrente contaDaGabriela = new ContaCorrente();
 
+            //Declarando valor ao objeto
             contaDaGabriela.titular = "Gabriela";
             contaDaGabriela.agencia = 863;
             contaDaGabriela.numero = 863452;
