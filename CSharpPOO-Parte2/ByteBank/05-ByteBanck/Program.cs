@@ -10,7 +10,7 @@ namespace _05_ByteBanck
     {
         static void Main(string[] args)
         {
-
+            /*
             Cliente gabriela = new Cliente();
 
             gabriela.nome = "Gabriela";
@@ -26,8 +26,15 @@ namespace _05_ByteBanck
 
             Console.WriteLine(gabriela.nome);
             Console.WriteLine(conta.titular.nome);
+            */
+
+            Pessoa guilherme = new Pessoa();
+            guilherme.nome = "Guilherme";
+            guilherme.endereco.logradouro = "Avenida XYZ";
 
             Console.ReadLine();
+
+
         }
     }
 }
