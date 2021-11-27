@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04-ByteBank", "04-ByteBank\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05-ByteBanck", "05-ByteBanck\05-ByteBanck.csproj", "{0934AE0D-A765-4863-94F8-06EF17E44187}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06-ByteBank", "06-ByteBank\06-ByteBank.csproj", "{C9E2A5BA-3BAA-475A-A288-E55CAC3BE7E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0934AE0D-A765-4863-94F8-06EF17E44187}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0934AE0D-A765-4863-94F8-06EF17E44187}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0934AE0D-A765-4863-94F8-06EF17E44187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9E2A5BA-3BAA-475A-A288-E55CAC3BE7E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E2A5BA-3BAA-475A-A288-E55CAC3BE7E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E2A5BA-3BAA-475A-A288-E55CAC3BE7E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E2A5BA-3BAA-475A-A288-E55CAC3BE7E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
