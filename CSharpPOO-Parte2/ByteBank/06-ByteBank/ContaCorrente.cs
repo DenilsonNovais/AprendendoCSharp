@@ -10,7 +10,8 @@ namespace _06_ByteBank
         public int numero;
         private double saldo = 100;
 
-        public void DefinirSaldo(double saldo)
+        //Definir (set)
+        public void SetSaldo(double saldo)
         {
             if(saldo < 0)
             {
@@ -22,7 +23,8 @@ namespace _06_ByteBank
             
         }
 
-        public double ObterSaldo()
+        //Obter (get)
+        public double GetSaldo()
         {
             return saldo;
         }

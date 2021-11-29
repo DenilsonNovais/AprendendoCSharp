@@ -12,9 +12,9 @@ namespace _06_ByteBank
         {
             ContaCorrente conta = new ContaCorrente();
 
-            conta.DefinirSaldo(-10);
+            conta.SetSaldo(-10);
 
-            Console.WriteLine(conta.ObterSaldo());
+            Console.WriteLine(conta.GetSaldo());
 
             Console.ReadLine();
         }
