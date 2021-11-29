@@ -11,10 +11,17 @@ namespace _06_ByteBank
         static void Main(string[] args)
         {
             ContaCorrente conta = new ContaCorrente();
+            Cliente cliente = new Cliente();
 
-            conta.SetSaldo(-10);
+            cliente.nome = "Guilerme";
+            cliente.cpf = "434.564.879-20";
+            cliente.profissao = "Desenvolvedor";
 
-            Console.WriteLine(conta.GetSaldo());
+            conta.Saldo = -10;
+            conta.Titular = cliente;
+
+            Console.WriteLine(conta.Titular.nome);
+            Console.WriteLine(conta.Saldo);
 
             Console.ReadLine();
         }

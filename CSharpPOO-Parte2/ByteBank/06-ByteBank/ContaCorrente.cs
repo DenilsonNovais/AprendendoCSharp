@@ -5,40 +5,43 @@ namespace _06_ByteBank
     //A Class é o molde para se construir o objeto
     public class ContaCorrente
     {//O tipo do titular é uma referencia do objeto Cliente
-        public Cliente titular;
+        public Cliente Titular { get; set; }
+
+
         public int agencia;
         public int numero;
-        private double saldo = 100;
+        private double _saldo = 100;
 
-        //Definir (set)
-        public void SetSaldo(double saldo)
+        //Propriedades Get e Set
+        public double Saldo
         {
-            if(saldo < 0)
+            get
             {
-                return;
+                return _saldo;
             }
-            
-            
-            this.saldo = saldo;
-            
+            set
+            {
+                if (value < 0)
+                {
+                    return;
+                }
+
+                _saldo = value;
+            }
         }
 
-        //Obter (get)
-        public double GetSaldo()
-        {
-            return saldo;
-        }
+                
 
         //É comum chamar de Função, mas pode ser chamado de método
         public bool Sacar(double valor)
         { //O this se refere à instancia, que envocou o método Sacar
-            if (saldo < valor)
+            if (_saldo < valor)
             {
                 return false;
             }
 
 
-            saldo -= valor;
+            _saldo -= valor;
             return true;
 
         }
@@ -46,18 +49,18 @@ namespace _06_ByteBank
         //É mais comum chamar de Método, mas também é uma função
         public void Depositar(double valor)
         {
-            saldo += valor;
+            _saldo += valor;
         }
 
         public bool Transferir(double valor, ContaCorrente contaDestino)
         {
-            if (saldo < valor)
+            if (_saldo < valor)
             {
                 return false;
             }
 
 
-            saldo -= valor;
+            _saldo -= valor;
             contaDestino.Depositar(valor);
             return true;
 
