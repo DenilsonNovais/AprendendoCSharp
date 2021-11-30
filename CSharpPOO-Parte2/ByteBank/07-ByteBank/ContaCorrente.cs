@@ -7,6 +7,8 @@ namespace _07_ByteBank
     {//O tipo do titular é uma referencia do objeto Cliente
         public Cliente Titular { get; set; }
 
+        public static int TotalDeContasCriadas { get; private set;}
+
         private int _agencia;
         public int Agencia 
         {
@@ -48,10 +50,13 @@ namespace _07_ByteBank
         }
 
         //Forma correta de construir objeto da conta corrente
+        //O construtor faz a inicialização de atributos
         public ContaCorrente(int agencia, int numero)
         {
             Agencia = agencia;
             Numero = numero;
+
+            TotalDeContasCriadas++;
         }
 
                 
