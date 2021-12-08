@@ -1,0 +1,7 @@
+F:\Desktop\GitHub\AprendendoCSharp\CSharpPOO-Parte3\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+F:\Desktop\GitHub\AprendendoCSharp\CSharpPOO-Parte3\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+F:\Desktop\GitHub\AprendendoCSharp\CSharpPOO-Parte3\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+F:\Desktop\GitHub\AprendendoCSharp\CSharpPOO-Parte3\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+F:\Desktop\GitHub\AprendendoCSharp\CSharpPOO-Parte3\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+F:\Desktop\GitHub\AprendendoCSharp\CSharpPOO-Parte3\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+F:\Desktop\GitHub\AprendendoCSharp\CSharpPOO-Parte3\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
