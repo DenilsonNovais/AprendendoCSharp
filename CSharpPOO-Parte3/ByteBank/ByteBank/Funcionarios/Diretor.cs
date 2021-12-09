@@ -13,7 +13,9 @@ namespace ByteBank.Funcionarios
         //Utilizando override para sobrepor o comportamento do metodo getBonificação do funcionario
         public override double GetBonificacao()
         {
-            return Salario;
+            return Salario + base.GetBonificacao();
         }
+        //Usando base para fezer referencia a membros da classe base.
+        
     }
 }
