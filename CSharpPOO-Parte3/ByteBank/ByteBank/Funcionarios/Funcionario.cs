@@ -10,10 +10,21 @@ namespace ByteBank.Funcionarios
     //Classe base da heranca
     public class Funcionario
     {
+        public static int TotalDeFuncionarios { get; private set; }
+
         public string Nome { get; set; }
-        public string CPF { get; set; }
+        public string CPF { get; private set; }
         public double Salario { get; set; }
 
+        //Construtor da classe Funcionario
+        public Funcionario(string cpf)
+        {
+            Console.WriteLine("Criando FUNCIONARIO");
+
+            CPF = cpf;
+
+            TotalDeFuncionarios++;
+        }
 
         //Comportamento do funcionario (Obter/Get) - Metodo/Função
         //O virtual permite que uma class derivada possa sobrepor ao seu comportamento
