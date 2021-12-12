@@ -13,6 +13,12 @@ namespace ByteBank.Funcionarios
         {
             Console.WriteLine("Criando DIRETOR");
         }
+
+        public override void AumentarSalario()
+        {
+            Salario *= 1.15;
+        }
+
         //Comportamento de sobrepor o Get do funcionario pelo do Diretor (Obter/Get) 
         //Utilizando override para sobrepor o comportamento do metodo getBonificação do funcionario
         public override double GetBonificacao()
