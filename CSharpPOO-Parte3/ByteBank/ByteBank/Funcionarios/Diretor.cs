@@ -9,7 +9,7 @@ namespace ByteBank.Funcionarios
     //A classe Diretor é derivada da classe Funcionario - Chama se Heranca
     public class Diretor : Funcionario
     {
-        public Diretor(string cpf) : base(cpf)
+        public Diretor(string cpf) : base (5000, cpf)
         {
             Console.WriteLine("Criando DIRETOR");
         }
@@ -23,9 +23,8 @@ namespace ByteBank.Funcionarios
         //Utilizando override para sobrepor o comportamento do metodo getBonificação do funcionario
         public override double GetBonificacao()
         {
-            return Salario + base.GetBonificacao();
+            return Salario * 0.5;
+            //Usando base para fezer referencia a membros da classe base.
         }
-        //Usando base para fezer referencia a membros da classe base.
-        
     }
 }
