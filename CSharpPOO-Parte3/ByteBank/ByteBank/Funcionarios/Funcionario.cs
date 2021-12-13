@@ -28,18 +28,10 @@ namespace ByteBank.Funcionarios
             TotalDeFuncionarios++;
         }
 
-        public virtual void AumentarSalario()
-        {
-            //Salario = Salario + (Salario * 0.1);
-            //Salario = Salario * 1.1;
-            Salario *= 1.1;
-        }
+        public abstract void AumentarSalario();
 
         //Comportamento do funcionario (Obter/Get) - Metodo/Função
         //O virtual permite que uma class derivada possa sobrepor ao seu comportamento
-        public virtual double GetBonificacao()
-        {
-            return Salario * 0.10;
-        } 
+        public abstract double GetBonificacao();
     }
 }
