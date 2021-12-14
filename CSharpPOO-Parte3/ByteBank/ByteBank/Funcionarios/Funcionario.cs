@@ -17,6 +17,7 @@ namespace ByteBank.Funcionarios
         public string CPF { get; private set; }
         public double Salario { get; protected set; }
 
+
         //Construtor da classe Funcionario
         public Funcionario(double salario, string cpf)
         {
