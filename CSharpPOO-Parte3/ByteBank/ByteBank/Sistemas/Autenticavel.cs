@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ByteBank.Sistemas
 {
-    public abstract class Autenticavel : Funcionario
+    public interface Autenticavel
     {
         public string Senha { get; set; }
 
